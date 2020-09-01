@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luis Enrique Argota Vega | Helena Gómez Adorno</title>
+    <link>/author/luis-enrique-argota-vega/</link>
+      <atom:link href="/author/luis-enrique-argota-vega/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luis Enrique Argota Vega</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Luis Enrique Argota Vega</title>
+      <link>/author/luis-enrique-argota-vega/</link>
+    </image>
+    
+    <item>
+      <title>MineriaUNAM at SemEval-2019 Task 5: Detecting hate speech in Twitter using multiple features in a combinatorial framework</title>
+      <link>/publication/vega-2019-mineriaunam/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/vega-2019-mineriaunam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

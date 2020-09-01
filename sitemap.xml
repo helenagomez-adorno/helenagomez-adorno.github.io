@@ -3,15 +3,162 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alexander-gelbukh/</loc>
+    <lastmod>2020-08-31T22:45:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alisa-zhila/</loc>
+    <lastmod>2020-08-31T22:45:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/aquilino-francisco-sotelo/</loc>
+    <lastmod>2020-08-31T22:45:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ramirez-2020-descriptions/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/martinez-2020-enhancing/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gemma-bel-enguix/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sotelo-2020-gender/</loc>
+    <lastmod>2020-08-31T22:45:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gerardo-sierra-mart%C4%B1nez/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/grigori-sidorov/</loc>
+    <lastmod>2020-08-31T22:45:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hanna-oktaba/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/helena-gomez-adorno/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ilia-voronkov/</loc>
+    <lastmod>2020-08-31T22:45:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jesus-german-ortiz-barajas/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/juan-manuel-torres-moreno/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/julio-v-guadarrama-olvera/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/maaz-amjad/</loc>
+    <lastmod>2020-08-31T22:45:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/oscar-esquivel-flores/</loc>
+    <lastmod>2020-08-31T22:45:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sandra-l-ram%C4%B1rez-mora/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/soledad-aragon-mart%5C%C4%B1z/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tonatiuh-hernandez-garc%5Ca/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/angela-mar%5C-and-damerau-tomas-rojas/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/amjad-2020-bend/</loc>
+    <lastmod>2020-08-31T22:45:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jorge-carlos-reyes-magana/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/luis-enrique-argota-vega/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/vega-2019-mineriaunam/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
   </url>
   
   <url>
@@ -20,14 +167,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
   </url>
   
   <url>
