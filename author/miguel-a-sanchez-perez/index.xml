@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel A Sanchez-Perez | Helena Gómez Adorno</title>
+    <link>/author/miguel-a-sanchez-perez/</link>
+      <atom:link href="/author/miguel-a-sanchez-perez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miguel A Sanchez-Perez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Miguel A Sanchez-Perez</title>
+      <link>/author/miguel-a-sanchez-perez/</link>
+    </image>
+    
+    <item>
+      <title>Plagiarism detection with genetic-based parameter tuning</title>
+      <link>/publication/sanchez-2018-plagiarism/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sanchez-2018-plagiarism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author Clustering using Hierarchical Clustering Analysis.</title>
+      <link>/publication/gomez-2017-author/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2017-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of character n-grams and lexical features on author, gender, and language variety identification on the same spanish news corpus</title>
+      <link>/publication/sanchez-2017-comparison/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sanchez-2017-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving feature representation based on a neural network for author profiling in social media texts</title>
+      <link>/publication/gomez-2016-improving/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2016-improving/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

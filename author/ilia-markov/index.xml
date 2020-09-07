@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilia Markov | Helena Gómez Adorno</title>
+    <link>/author/ilia-markov/</link>
+      <atom:link href="/author/ilia-markov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ilia Markov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Ilia Markov</title>
+      <link>/author/ilia-markov/</link>
+    </image>
+    
+    <item>
+      <title>A convolutional neural network approach for gender and language variety identification</title>
+      <link>/publication/gomez-2019-convolutional/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2019-convolutional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CIC-GIL Approach to Author Profiling in Spanish Tweets: Location and Occupation.</title>
+      <link>/publication/markov-2018-cic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/markov-2018-cic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of character n-grams and lexical features on author, gender, and language variety identification on the same spanish news corpus</title>
+      <link>/publication/sanchez-2017-comparison/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sanchez-2017-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminating between similar languages using a combination of typed and untyped character n-grams and words</title>
+      <link>/publication/gomez-2017-discriminating/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2017-discriminating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language-and Subtask-Dependent Feature Selection and Classifier Parameter Tuning for Author Profiling.</title>
+      <link>/publication/markov-2017-language/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/markov-2017-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The winning approach to cross-genre gender identification in russian at rusprofiling 2017</title>
+      <link>/publication/markov-2017-winning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/markov-2017-winning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting Cross-Genre Author Profiling to Language and Corpus.</title>
+      <link>/publication/markov-2016-adapting/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/markov-2016-adapting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author profiling with doc2vec neural network-based document embeddings</title>
+      <link>/publication/markov-2016-author/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/markov-2016-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compilación de un lexicón de redes sociales para la identificación de perfiles de autor.</title>
+      <link>/publication/gomez-2016-compilacion/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2016-compilacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving feature representation based on a neural network for author profiling in social media texts</title>
+      <link>/publication/gomez-2016-improving/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2016-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A graph based authorship identification approach</title>
+      <link>/publication/gomez-2015-graph/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2015-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing text similarity using tree edit distance</title>
+      <link>/publication/sidorov-2015-computing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sidorov-2015-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic n-grams as features for the author profiling task</title>
+      <link>/publication/posadas-2015-syntactic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/posadas-2015-syntactic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

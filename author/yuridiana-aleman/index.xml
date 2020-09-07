@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuridiana Aleman | Helena Gómez Adorno</title>
+    <link>/author/yuridiana-aleman/</link>
+      <atom:link href="/author/yuridiana-aleman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuridiana Aleman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuridiana Aleman</title>
+      <link>/author/yuridiana-aleman/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchical clustering analysis: the best-performing approach at PAN 2017 author clustering task</title>
+      <link>/publication/gomez-2018-hierarchical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2018-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author Clustering using Hierarchical Clustering Analysis.</title>
+      <link>/publication/gomez-2017-author/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2017-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buap: N-gram based feature evaluation for the cross-lingual textual entailment task</title>
+      <link>/publication/vilarino-2013-buap/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/vilarino-2013-buap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecast of air quality based on ozone by decision trees and neural networks</title>
+      <link>/publication/loya-2012-forecast/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/loya-2012-forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Soundex phonetic algorithm revisited for SMS text representation</title>
+      <link>/publication/pinto-2012-soundex/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/pinto-2012-soundex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

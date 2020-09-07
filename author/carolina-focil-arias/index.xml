@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carolina Fócil Arias | Helena Gómez Adorno</title>
+    <link>/author/carolina-focil-arias/</link>
+      <atom:link href="/author/carolina-focil-arias/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carolina Fócil Arias</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Carolina Fócil Arias</title>
+      <link>/author/carolina-focil-arias/</link>
+    </image>
+    
+    <item>
+      <title>Compilación de un lexicón de redes sociales para la identificación de perfiles de autor.</title>
+      <link>/publication/gomez-2016-compilacion/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2016-compilacion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

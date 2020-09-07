@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darnes Vilariño Ayala | Helena Gómez Adorno</title>
+    <link>/author/darnes-vilarino-ayala/</link>
+      <atom:link href="/author/darnes-vilarino-ayala/index.xml" rel="self" type="application/rss+xml" />
+    <description>Darnes Vilariño Ayala</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Darnes Vilariño Ayala</title>
+      <link>/author/darnes-vilarino-ayala/</link>
+    </image>
+    
+    <item>
+      <title>Author Clustering using Hierarchical Clustering Analysis.</title>
+      <link>/publication/gomez-2017-author/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2017-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Answer Validation in Question Answering Systems for Reading Comprehension Tests.</title>
+      <link>/publication/gomez-2013-semantic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2013-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Approaches for QA4MRE: Information Retrieval and Graph-based Knowledge Representation.</title>
+      <link>/publication/gomez-2013-two/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2013-two/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

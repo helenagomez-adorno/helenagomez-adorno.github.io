@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Pinto | Helena Gómez Adorno</title>
+    <link>/author/david-pinto/</link>
+      <atom:link href="/author/david-pinto/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Pinto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>David Pinto</title>
+      <link>/author/david-pinto/</link>
+    </image>
+    
+    <item>
+      <title>Document embeddings learned on various types of n-grams for cross-topic authorship attribution</title>
+      <link>/publication/gomez-2018-document/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2018-document/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical clustering analysis: the best-performing approach at PAN 2017 author clustering task</title>
+      <link>/publication/gomez-2018-hierarchical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2018-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of the distributed document representation in the authorship attribution task for small corpora</title>
+      <link>/publication/posadas-2017-application/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/posadas-2017-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author Clustering using Hierarchical Clustering Analysis.</title>
+      <link>/publication/gomez-2017-author/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2017-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminating between similar languages using a combination of typed and untyped character n-grams and words</title>
+      <link>/publication/gomez-2017-discriminating/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2017-discriminating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic authorship detection using textual patterns extracted from integrated syntactic graphs</title>
+      <link>/publication/gomez-2016-automatic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2016-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cicbuapnlp at semeval-2016 task 4-a: Discovering twitter polarity using enhanced embeddings</title>
+      <link>/publication/gomez-2016-cicbuapnlp/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2016-cicbuapnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A graph based authorship identification approach</title>
+      <link>/publication/gomez-2015-graph/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2015-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CICBUAPnlp: graph-based approach for answer selection in community question answering task</title>
+      <link>/publication/gomez-2015-cicbuapnlp/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2015-cicbuapnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing text similarity using tree edit distance</title>
+      <link>/publication/sidorov-2015-computing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sidorov-2015-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A graph-based multi-level linguistic representation for document understanding</title>
+      <link>/publication/pinto-2014-graph/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/pinto-2014-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Linguistic Pattern Identification Based on Graph Text Representation</title>
+      <link>/publication/gomez-2014-automatic/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2014-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content and style features for automatic detection of users’ intentions in tweets</title>
+      <link>/publication/gomez-2014-content/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2014-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Based Approach for the Question Answering Task Based on Entrance Exams.</title>
+      <link>/publication/gomez-2014-graph/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2014-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soft similarity and soft cosine measure: Similarity of features in vector space model</title>
+      <link>/publication/sidorov-2014-soft/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/sidorov-2014-soft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A question answering system for reading comprehension tests</title>
+      <link>/publication/gomez-2013-question/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2013-question/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buap: N-gram based feature evaluation for the cross-lingual textual entailment task</title>
+      <link>/publication/vilarino-2013-buap/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/vilarino-2013-buap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical-syntactic and graph-based features for authorship verification</title>
+      <link>/publication/vilarino-2013-lexical/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/vilarino-2013-lexical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Answer Validation in Question Answering Systems for Reading Comprehension Tests.</title>
+      <link>/publication/gomez-2013-semantic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2013-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Approaches for QA4MRE: Information Retrieval and Graph-based Knowledge Representation.</title>
+      <link>/publication/gomez-2013-two/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2013-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecast of air quality based on ozone by decision trees and neural networks</title>
+      <link>/publication/loya-2012-forecast/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/loya-2012-forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Soundex phonetic algorithm revisited for SMS text representation</title>
+      <link>/publication/pinto-2012-soundex/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/pinto-2012-soundex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

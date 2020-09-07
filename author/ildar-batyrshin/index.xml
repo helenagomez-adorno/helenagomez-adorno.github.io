@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ildar Batyrshin | Helena Gómez Adorno</title>
+    <link>/author/ildar-batyrshin/</link>
+      <atom:link href="/author/ildar-batyrshin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ildar Batyrshin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Ildar Batyrshin</title>
+      <link>/author/ildar-batyrshin/</link>
+    </image>
+    
+    <item>
+      <title>CIC-GIL Approach to Cross-domain Authorship Attribution</title>
+      <link>/publication/martin-2018-cic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/martin-2018-cic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithm for extraction of subtrees of a sentence dependency parse tree</title>
+      <link>/publication/posadas-2017-algorithm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/posadas-2017-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of the distributed document representation in the authorship attribution task for small corpora</title>
+      <link>/publication/posadas-2017-application/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/posadas-2017-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic n-grams as features for the author profiling task</title>
+      <link>/publication/posadas-2015-syntactic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/posadas-2015-syntactic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

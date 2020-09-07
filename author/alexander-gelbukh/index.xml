@@ -20,5 +20,69 @@
       <description></description>
     </item>
     
+    <item>
+      <title>A convolutional neural network approach for gender and language variety identification</title>
+      <link>/publication/gomez-2019-convolutional/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2019-convolutional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the boilerpipe algorithm for boilerplate removal in news articles using html tree structure</title>
+      <link>/publication/viveros-2018-improving/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/viveros-2018-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plagiarism detection with genetic-based parameter tuning</title>
+      <link>/publication/sanchez-2018-plagiarism/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sanchez-2018-plagiarism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The winning approach to cross-genre gender identification in russian at rusprofiling 2017</title>
+      <link>/publication/markov-2017-winning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/markov-2017-winning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author profiling with doc2vec neural network-based document embeddings</title>
+      <link>/publication/markov-2016-author/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/markov-2016-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic authorship detection using textual patterns extracted from integrated syntactic graphs</title>
+      <link>/publication/gomez-2016-automatic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2016-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic n-grams as features for the author profiling task</title>
+      <link>/publication/posadas-2015-syntactic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/posadas-2015-syntactic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soft similarity and soft cosine measure: Similarity of features in vector space model</title>
+      <link>/publication/sidorov-2014-soft/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/sidorov-2014-soft/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Germán Ortiz | Helena Gómez Adorno</title>
+    <link>/author/german-ortiz/</link>
+      <atom:link href="/author/german-ortiz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Germán Ortiz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Germán Ortiz</title>
+      <link>/author/german-ortiz/</link>
+    </image>
+    
+    <item>
+      <title>Detection of Aggressive Tweets in Mexican Spanish Using Multiple Features with Parameter Optimization.</title>
+      <link>/publication/ortiz-2019-detection/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ortiz-2019-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

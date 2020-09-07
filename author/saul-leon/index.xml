@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saúl León | Helena Gómez Adorno</title>
+    <link>/author/saul-leon/</link>
+      <atom:link href="/author/saul-leon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Saúl León</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Saúl León</title>
+      <link>/author/saul-leon/</link>
+    </image>
+    
+    <item>
+      <title>Buap: N-gram based feature evaluation for the cross-lingual textual entailment task</title>
+      <link>/publication/vilarino-2013-buap/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/vilarino-2013-buap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical-syntactic and graph-based features for authorship verification</title>
+      <link>/publication/vilarino-2013-lexical/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/vilarino-2013-lexical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

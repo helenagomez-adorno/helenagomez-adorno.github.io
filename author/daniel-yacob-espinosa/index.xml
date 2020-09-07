@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Yacob Espinosa | Helena Gómez Adorno</title>
+    <link>/author/daniel-yacob-espinosa/</link>
+      <atom:link href="/author/daniel-yacob-espinosa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Yacob Espinosa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniel Yacob Espinosa</title>
+      <link>/author/daniel-yacob-espinosa/</link>
+    </image>
+    
+    <item>
+      <title>Bots and gender profiling using character bigrams notebook for PAN at CLEF 2019</title>
+      <link>/publication/espinosa-2019-bots/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/espinosa-2019-bots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

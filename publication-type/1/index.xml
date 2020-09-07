@@ -29,10 +29,194 @@
     </item>
     
     <item>
+      <title>A Parallel Corpus Mixtec-Spanish</title>
+      <link>/publication/montano-2019-parallel/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/montano-2019-parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bots and gender profiling using character bigrams notebook for PAN at CLEF 2019</title>
+      <link>/publication/espinosa-2019-bots/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/espinosa-2019-bots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Aggressive Tweets in Mexican Spanish Using Multiple Features with Parameter Optimization.</title>
+      <link>/publication/ortiz-2019-detection/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ortiz-2019-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MineriaUNAM at SemEval-2019 Task 5: Detecting hate speech in Twitter using multiple features in a combinatorial framework</title>
       <link>/publication/vega-2019-mineriaunam/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/vega-2019-mineriaunam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Machine Learning Approach for Detecting Aggressive Tweets in Spanish.</title>
+      <link>/publication/gomez-2018-machine/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2018-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CIC-GIL Approach to Author Profiling in Spanish Tweets: Location and Occupation.</title>
+      <link>/publication/markov-2018-cic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/markov-2018-cic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical clustering analysis: the best-performing approach at PAN 2017 author clustering task</title>
+      <link>/publication/gomez-2018-hierarchical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2018-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author Clustering using Hierarchical Clustering Analysis.</title>
+      <link>/publication/gomez-2017-author/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2017-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of character n-grams and lexical features on author, gender, and language variety identification on the same spanish news corpus</title>
+      <link>/publication/sanchez-2017-comparison/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sanchez-2017-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminating between similar languages using a combination of typed and untyped character n-grams and words</title>
+      <link>/publication/gomez-2017-discriminating/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2017-discriminating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language-and Subtask-Dependent Feature Selection and Classifier Parameter Tuning for Author Profiling.</title>
+      <link>/publication/markov-2017-language/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/markov-2017-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author profiling with doc2vec neural network-based document embeddings</title>
+      <link>/publication/markov-2016-author/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/markov-2016-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cicbuapnlp at semeval-2016 task 4-a: Discovering twitter polarity using enhanced embeddings</title>
+      <link>/publication/gomez-2016-cicbuapnlp/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2016-cicbuapnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CICBUAPnlp: graph-based approach for answer selection in community question answering task</title>
+      <link>/publication/gomez-2015-cicbuapnlp/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2015-cicbuapnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing text similarity using tree edit distance</title>
+      <link>/publication/sidorov-2015-computing/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sidorov-2015-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content and style features for automatic detection of users’ intentions in tweets</title>
+      <link>/publication/gomez-2014-content/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2014-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Based Approach for the Question Answering Task Based on Entrance Exams.</title>
+      <link>/publication/gomez-2014-graph/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2014-graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A question answering system for reading comprehension tests</title>
+      <link>/publication/gomez-2013-question/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2013-question/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buap: N-gram based feature evaluation for the cross-lingual textual entailment task</title>
+      <link>/publication/vilarino-2013-buap/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/vilarino-2013-buap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical-syntactic and graph-based features for authorship verification</title>
+      <link>/publication/vilarino-2013-lexical/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/vilarino-2013-lexical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Answer Validation in Question Answering Systems for Reading Comprehension Tests.</title>
+      <link>/publication/gomez-2013-semantic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2013-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two Approaches for QA4MRE: Information Retrieval and Graph-based Knowledge Representation.</title>
+      <link>/publication/gomez-2013-two/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2013-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecast of air quality based on ozone by decision trees and neural networks</title>
+      <link>/publication/loya-2012-forecast/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/loya-2012-forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Soundex phonetic algorithm revisited for SMS text representation</title>
+      <link>/publication/pinto-2012-soundex/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/pinto-2012-soundex/</guid>
       <description></description>
     </item>
     

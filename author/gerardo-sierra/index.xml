@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gerardo Sierra | Helena Gómez Adorno</title>
+    <link>/author/gerardo-sierra/</link>
+      <atom:link href="/author/gerardo-sierra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gerardo Sierra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Gerardo Sierra</title>
+      <link>/author/gerardo-sierra/</link>
+    </image>
+    
+    <item>
+      <title>A Lexical Search Model based on word association norms</title>
+      <link>/publication/reyes-2019-lexical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/reyes-2019-lexical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing an Electronic Reverse Dictionary Based on Two Word Association Norms of English Language</title>
+      <link>/publication/reyes-2019-designing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/reyes-2019-designing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Aggressive Tweets in Mexican Spanish Using Multiple Features with Parameter Optimization.</title>
+      <link>/publication/ortiz-2019-detection/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ortiz-2019-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wan2vec: Embeddings learned on word association norms</title>
+      <link>/publication/bel-2019-wan-2-vec/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bel-2019-wan-2-vec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Machine Learning Approach for Detecting Aggressive Tweets in Spanish.</title>
+      <link>/publication/gomez-2018-machine/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2018-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stylometry-based approach for detecting writing style changes in literary texts</title>
+      <link>/publication/gomez-2018-stylometry/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2018-stylometry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

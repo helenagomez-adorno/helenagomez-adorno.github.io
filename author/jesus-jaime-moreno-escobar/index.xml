@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jesús Jaime Moreno Escobar | Helena Gómez Adorno</title>
+    <link>/author/jesus-jaime-moreno-escobar/</link>
+      <atom:link href="/author/jesus-jaime-moreno-escobar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jesús Jaime Moreno Escobar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Jesús Jaime Moreno Escobar</title>
+      <link>/author/jesus-jaime-moreno-escobar/</link>
+    </image>
+    
+    <item>
+      <title>Detection of fake news in a new corpus for the Spanish language</title>
+      <link>/publication/posadas-2019-detection/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/posadas-2019-detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

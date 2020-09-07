@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Pablo Posadas-Durán | Helena Gómez Adorno</title>
+    <link>/author/juan-pablo-posadas-duran/</link>
+      <atom:link href="/author/juan-pablo-posadas-duran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan Pablo Posadas-Durán</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Juan Pablo Posadas-Durán</title>
+      <link>/author/juan-pablo-posadas-duran/</link>
+    </image>
+    
+    <item>
+      <title>Detection of fake news in a new corpus for the Spanish language</title>
+      <link>/publication/posadas-2019-detection/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/posadas-2019-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Document embeddings learned on various types of n-grams for cross-topic authorship attribution</title>
+      <link>/publication/gomez-2018-document/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2018-document/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the boilerpipe algorithm for boilerplate removal in news articles using html tree structure</title>
+      <link>/publication/viveros-2018-improving/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/viveros-2018-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stylometry-based approach for detecting writing style changes in literary texts</title>
+      <link>/publication/gomez-2018-stylometry/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2018-stylometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithm for extraction of subtrees of a sentence dependency parse tree</title>
+      <link>/publication/posadas-2017-algorithm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/posadas-2017-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of the distributed document representation in the authorship attribution task for small corpora</title>
+      <link>/publication/posadas-2017-application/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/posadas-2017-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author profiling with doc2vec neural network-based document embeddings</title>
+      <link>/publication/markov-2016-author/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/markov-2016-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compilación de un lexicón de redes sociales para la identificación de perfiles de autor.</title>
+      <link>/publication/gomez-2016-compilacion/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2016-compilacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving feature representation based on a neural network for author profiling in social media texts</title>
+      <link>/publication/gomez-2016-improving/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gomez-2016-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic n-grams as features for the author profiling task</title>
+      <link>/publication/posadas-2015-syntactic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/posadas-2015-syntactic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
