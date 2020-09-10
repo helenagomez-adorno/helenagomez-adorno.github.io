@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neural networks | Helena Gómez Adorno</title>
+    <link>/tag/neural-networks/</link>
+      <atom:link href="/tag/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neural networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 10:09:42 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Neural networks</title>
+      <link>/tag/neural-networks/</link>
+    </image>
+    
+    <item>
+      <title>PAPIIT TA100520: Authorship analysis on documents with deep learning techniques.</title>
+      <link>/project/papiit-ta100520/</link>
+      <pubDate>Thu, 10 Sep 2020 10:09:42 -0500</pubDate>
+      <guid>/project/papiit-ta100520/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

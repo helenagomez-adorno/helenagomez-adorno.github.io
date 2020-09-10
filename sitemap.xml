@@ -3,18 +3,158 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-09-10T10:10:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/medical-records/</loc>
+    <lastmod>2020-09-10T10:10:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/named-entity-recognition/</loc>
+    <lastmod>2020-09-10T10:10:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nlp/</loc>
+    <lastmod>2020-09-10T10:10:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-09-10T10:10:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/sihsedesa/</loc>
+    <lastmod>2020-09-10T10:10:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-10T10:10:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/author-profiling/</loc>
+    <lastmod>2020-09-10T10:09:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-09-10T10:09:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/authorship-analysis/</loc>
+    <lastmod>2020-09-10T10:09:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/authorship-attribution/</loc>
+    <lastmod>2020-09-10T10:09:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2020-09-10T10:09:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/helena-montserrat-gomez-adorno/</loc>
+    <lastmod>2020-09-10T10:09:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/neural-networks/</loc>
+    <lastmod>2020-09-10T10:09:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/papiit-ta100520/</loc>
+    <lastmod>2020-09-10T10:09:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/conacyt-298036/</loc>
+    <lastmod>2020-09-10T10:07:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/lexicalresources/</loc>
+    <lastmod>2020-09-10T09:48:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/lexical-resources/</loc>
+    <lastmod>2020-09-10T09:48:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/slangs/</loc>
+    <lastmod>2020-09-10T09:48:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/social-media/</loc>
+    <lastmod>2020-09-10T09:48:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/corpus/</loc>
+    <lastmod>2020-09-09T16:38:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/grigori-sidorov/</loc>
+    <lastmod>2020-09-09T16:38:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ilia-markov/</loc>
+    <lastmod>2020-09-09T16:38:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/miguel-a.-sanchez-perez/</loc>
+    <lastmod>2020-09-09T16:38:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/spanish-corpus/</loc>
+    <lastmod>2020-09-09T16:38:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/spanish-newscorpus/</loc>
+    <lastmod>2020-09-09T16:38:06-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2020-09-04T01:52:13-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-09-04T01:52:13-05:00</lastmod>
+    <loc>/author/gemma-bel-enguix/</loc>
+    <lastmod>2020-09-04T01:52:11-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-09-04T01:52:13-05:00</lastmod>
+    <loc>/author/gerardo-sierra/</loc>
+    <lastmod>2020-09-04T01:52:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/helena-gomez-adorno/</loc>
+    <lastmod>2020-09-04T01:52:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jorge-carlos-reyes-magana/</loc>
+    <lastmod>2020-09-04T01:52:09-05:00</lastmod>
   </url>
   
   <url>
@@ -29,11 +169,6 @@
   
   <url>
     <loc>/publication/meridaspanish/</loc>
-    <lastmod>2020-09-04T01:52:09-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/yucatan-merida/</loc>
     <lastmod>2020-09-04T01:52:09-05:00</lastmod>
   </url>
   
@@ -73,11 +208,6 @@
   </url>
   
   <url>
-    <loc>/author/gemma-bel-enguix/</loc>
-    <lastmod>2020-09-04T01:52:11-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/sotelo-2020-gender/</loc>
     <lastmod>2020-09-04T01:52:06-05:00</lastmod>
   </url>
@@ -88,18 +218,8 @@
   </url>
   
   <url>
-    <loc>/author/grigori-sidorov/</loc>
-    <lastmod>2020-09-04T01:52:05-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/hanna-oktaba/</loc>
     <lastmod>2020-09-04T01:52:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/helena-gomez-adorno/</loc>
-    <lastmod>2020-09-04T01:52:12-05:00</lastmod>
   </url>
   
   <url>
@@ -218,11 +338,6 @@
   </url>
   
   <url>
-    <loc>/author/gerardo-sierra/</loc>
-    <lastmod>2020-09-04T01:52:11-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/german-ortiz/</loc>
     <lastmod>2020-09-04T01:51:56-05:00</lastmod>
   </url>
@@ -238,18 +353,8 @@
   </url>
   
   <url>
-    <loc>/author/ilia-markov/</loc>
-    <lastmod>2020-09-04T01:52:02-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/jesus-jaime-moreno-escobar/</loc>
     <lastmod>2020-09-04T01:51:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jorge-carlos-reyes-magana/</loc>
-    <lastmod>2020-09-04T01:51:53-05:00</lastmod>
   </url>
   
   <url>
@@ -627,19 +732,11 @@
   </url>
   
   <url>
-    <loc>/author/helena-montserrat-gomez-adorno/</loc>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
   </url>
   
   <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical Records | Helena Gómez Adorno</title>
+    <link>/tag/medical-records/</link>
+      <atom:link href="/tag/medical-records/index.xml" rel="self" type="application/rss+xml" />
+    <description>Medical Records</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 10:10:22 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Medical Records</title>
+      <link>/tag/medical-records/</link>
+    </image>
+    
+    <item>
+      <title>SIHSedesa: Hospital Information System - SEDESA</title>
+      <link>/project/sihsedesa/</link>
+      <pubDate>Thu, 10 Sep 2020 10:10:22 -0500</pubDate>
+      <guid>/project/sihsedesa/</guid>
+      <description>&lt;p&gt;The aim of the project is to develop a hospital information system that includes a respiratory triage module, automatic data import module from health recodrs, identification of relevant terms from medical records, and visualization with dashboards.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

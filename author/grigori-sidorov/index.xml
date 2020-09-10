@@ -5,12 +5,21 @@
     <link>/author/grigori-sidorov/</link>
       <atom:link href="/author/grigori-sidorov/index.xml" rel="self" type="application/rss+xml" />
     <description>Grigori Sidorov</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 16:38:06 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
       <title>Grigori Sidorov</title>
       <link>/author/grigori-sidorov/</link>
     </image>
+    
+    <item>
+      <title>Spanish NewsCorpus: Multi-tagged corpus for authorship analysis in Spanish</title>
+      <link>/project/spanish-newscorpus/</link>
+      <pubDate>Wed, 09 Sep 2020 16:38:06 -0500</pubDate>
+      <guid>/project/spanish-newscorpus/</guid>
+      <description>&lt;p&gt;The aim of the project is the compilation of news in Spanish from digital media sites and its categorization into three areas: variation of Spanish, author, and author&amp;rsquo;s gender. The collection was carried out semi-automatically with a web crawler developed for this purpose.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>“Bend the truth”: Benchmark dataset for fake news detection in urdu language and its evaluation</title>

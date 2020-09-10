@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spanish corpus | Helena Gómez Adorno</title>
+    <link>/tag/spanish-corpus/</link>
+      <atom:link href="/tag/spanish-corpus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spanish corpus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 16:38:06 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Spanish corpus</title>
+      <link>/tag/spanish-corpus/</link>
+    </image>
+    
+    <item>
+      <title>Spanish NewsCorpus: Multi-tagged corpus for authorship analysis in Spanish</title>
+      <link>/project/spanish-newscorpus/</link>
+      <pubDate>Wed, 09 Sep 2020 16:38:06 -0500</pubDate>
+      <guid>/project/spanish-newscorpus/</guid>
+      <description>&lt;p&gt;The aim of the project is the compilation of news in Spanish from digital media sites and its categorization into three areas: variation of Spanish, author, and author&amp;rsquo;s gender. The collection was carried out semi-automatically with a web crawler developed for this purpose.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

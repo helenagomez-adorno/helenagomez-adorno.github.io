@@ -5,12 +5,48 @@
     <link>/author/helena-montserrat-gomez-adorno/</link>
       <atom:link href="/author/helena-montserrat-gomez-adorno/index.xml" rel="self" type="application/rss+xml" />
     <description>Helena Montserrat Gómez Adorno</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 10:09:42 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
       <title>Helena Montserrat Gómez Adorno</title>
       <link>/author/helena-montserrat-gomez-adorno/</link>
     </image>
+    
+    <item>
+      <title>PAPIIT TA100520: Authorship analysis on documents with deep learning techniques.</title>
+      <link>/project/papiit-ta100520/</link>
+      <pubDate>Thu, 10 Sep 2020 10:09:42 -0500</pubDate>
+      <guid>/project/papiit-ta100520/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CONACYT Project 298036: Feria de Talleres Mexicanas del Futuro: Trazando conciencias, pensando en TI Edición IIMAS UNAM.</title>
+      <link>/project/conacyt-298036/</link>
+      <pubDate>Thu, 10 Sep 2020 10:07:05 -0500</pubDate>
+      <guid>/project/conacyt-298036/</guid>
+      <description>&lt;p&gt;The project aims at promoting the scientific-technological vocation among female students of UNAM&amp;rsquo;s highschool. For this, we invite the girls to study a science and technology career through conferences and workshops in a fun and interesting environment to show them that thinking that women and technology do not get along is an unfounded prejudice. We held a workshop fair at UNAM campus. Worshops and talks were given by professional women from the world of academy and industry, focused on the student population of the UNAM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lexical resource for data processing of social networks</title>
+      <link>/project/lexicalresources/</link>
+      <pubDate>Thu, 10 Sep 2020 09:48:19 -0500</pubDate>
+      <guid>/project/lexicalresources/</guid>
+      <description>&lt;p&gt;Lexical resource for data processing of social networks&amp;rdquo;
+summary: &amp;ldquo;The aim of the project is the collection of dictionaries of slang words, contractions, abbreviations and emoticons commonly used in social media. The diccitionaries are in English, Spanish, Dutch, and Italian languages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spanish NewsCorpus: Multi-tagged corpus for authorship analysis in Spanish</title>
+      <link>/project/spanish-newscorpus/</link>
+      <pubDate>Wed, 09 Sep 2020 16:38:06 -0500</pubDate>
+      <guid>/project/spanish-newscorpus/</guid>
+      <description>&lt;p&gt;The aim of the project is the compilation of news in Spanish from digital media sites and its categorization into three areas: variation of Spanish, author, and author&amp;rsquo;s gender. The collection was carried out semi-automatically with a web crawler developed for this purpose.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

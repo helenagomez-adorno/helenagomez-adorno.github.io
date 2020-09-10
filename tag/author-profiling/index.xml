@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author profiling | Helena Gómez Adorno</title>
+    <link>/tag/author-profiling/</link>
+      <atom:link href="/tag/author-profiling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Author profiling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 10:09:42 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <title>Author profiling</title>
+      <link>/tag/author-profiling/</link>
+    </image>
+    
+    <item>
+      <title>PAPIIT TA100520: Authorship analysis on documents with deep learning techniques.</title>
+      <link>/project/papiit-ta100520/</link>
+      <pubDate>Thu, 10 Sep 2020 10:09:42 -0500</pubDate>
+      <guid>/project/papiit-ta100520/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical resource for data processing of social networks</title>
+      <link>/project/lexicalresources/</link>
+      <pubDate>Thu, 10 Sep 2020 09:48:19 -0500</pubDate>
+      <guid>/project/lexicalresources/</guid>
+      <description>&lt;p&gt;Lexical resource for data processing of social networks&amp;rdquo;
+summary: &amp;ldquo;The aim of the project is the collection of dictionaries of slang words, contractions, abbreviations and emoticons commonly used in social media. The diccitionaries are in English, Spanish, Dutch, and Italian languages.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
