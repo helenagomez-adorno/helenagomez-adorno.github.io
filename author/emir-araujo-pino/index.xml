@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gibran Fuentes-Pineda | Helena Gómez Adorno</title>
-    <link>/author/gibran-fuentes-pineda/</link>
-      <atom:link href="/author/gibran-fuentes-pineda/index.xml" rel="self" type="application/rss+xml" />
-    <description>Gibran Fuentes-Pineda</description>
+    <title>Emir Araujo-Pino | Helena Gómez Adorno</title>
+    <link>/author/emir-araujo-pino/</link>
+      <atom:link href="/author/emir-araujo-pino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emir Araujo-Pino</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
-      <title>Gibran Fuentes-Pineda</title>
-      <link>/author/gibran-fuentes-pineda/</link>
+      <title>Emir Araujo-Pino</title>
+      <link>/author/emir-araujo-pino/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/2020-araujo-siamese/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020-araujo-siamese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bots and Gender Identification Based on Stylometry of Tweet Minimal Structure and n-grams Model</title>
-      <link>/publication/valencia-2019-bots/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/valencia-2019-bots/</guid>
       <description></description>
     </item>
     

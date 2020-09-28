@@ -133,28 +133,23 @@
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-09-04T01:52:13-05:00</lastmod>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2020-09-04T01:52:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/gemma-bel-enguix/</loc>
-    <lastmod>2020-09-04T01:52:11-05:00</lastmod>
+    <loc>/author/emir-araujo-pino/</loc>
+    <lastmod>2020-09-04T01:52:07-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/gerardo-sierra/</loc>
-    <lastmod>2020-09-04T01:52:11-05:00</lastmod>
+    <loc>/author/gibran-fuentes-pineda/</loc>
+    <lastmod>2020-09-04T01:52:07-05:00</lastmod>
   </url>
   
   <url>
     <loc>/author/helena-gomez-adorno/</loc>
     <lastmod>2020-09-04T01:52:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jorge-carlos-reyes-magana/</loc>
-    <lastmod>2020-09-04T01:52:09-05:00</lastmod>
   </url>
   
   <url>
@@ -168,13 +163,13 @@
   </url>
   
   <url>
-    <loc>/publication/meridaspanish/</loc>
-    <lastmod>2020-09-04T01:52:09-05:00</lastmod>
+    <loc>/publication/2020-araujo-siamese/</loc>
+    <lastmod>2020-09-04T01:52:07-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2020-09-04T01:52:12-05:00</lastmod>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-09-04T01:52:13-05:00</lastmod>
   </url>
   
   <url>
@@ -205,6 +200,11 @@
   <url>
     <loc>/publication/martinez-2020-enhancing/</loc>
     <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gemma-bel-enguix/</loc>
+    <lastmod>2020-09-04T01:52:11-05:00</lastmod>
   </url>
   
   <url>
@@ -278,6 +278,21 @@
   </url>
   
   <url>
+    <loc>/author/gerardo-sierra/</loc>
+    <lastmod>2020-09-04T01:52:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jorge-carlos-reyes-magana/</loc>
+    <lastmod>2020-09-04T01:51:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-gomez-spanish/</loc>
+    <lastmod>2019-01-01T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/gomez-2019-convolutional/</loc>
     <lastmod>2020-09-04T01:52:02-05:00</lastmod>
   </url>
@@ -340,11 +355,6 @@
   <url>
     <loc>/author/german-ortiz/</loc>
     <lastmod>2020-09-04T01:51:56-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/gibran-fuentes-pineda/</loc>
-    <lastmod>2020-09-04T01:52:00-05:00</lastmod>
   </url>
   
   <url>

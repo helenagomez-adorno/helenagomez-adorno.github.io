@@ -5,7 +5,7 @@
     <link>/author/helena-gomez-adorno/</link>
       <atom:link href="/author/helena-gomez-adorno/index.xml" rel="self" type="application/rss+xml" />
     <description>Helena Gómez-Adorno</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 06:52:08 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
       <title>Helena Gómez-Adorno</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Spanish Word Embeddings Learned on Word Association Norms</title>
-      <link>/publication/meridaspanish/</link>
-      <pubDate>Fri, 04 Sep 2020 06:52:08 +0000</pubDate>
-      <guid>/publication/meridaspanish/</guid>
+      <title>Siamese Network applied to Authorship Verification</title>
+      <link>/publication/2020-araujo-siamese/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-araujo-siamese/</guid>
       <description></description>
     </item>
     
@@ -49,6 +49,14 @@
       <link>/publication/amjad-2020-bend/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/amjad-2020-bend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spanish Word Embeddings Learned on Word Association Norms</title>
+      <link>/publication/2019-gomez-spanish/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
+      <guid>/publication/2019-gomez-spanish/</guid>
       <description></description>
     </item>
     

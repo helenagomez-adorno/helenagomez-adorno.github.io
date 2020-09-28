@@ -58,10 +58,10 @@ summary: &amp;ldquo;The aim of the project is the collection of dictionaries of 
     </item>
     
     <item>
-      <title>Spanish Word Embeddings Learned on Word Association Norms</title>
-      <link>/publication/meridaspanish/</link>
-      <pubDate>Fri, 04 Sep 2020 06:52:08 +0000</pubDate>
-      <guid>/publication/meridaspanish/</guid>
+      <title>Siamese Network applied to Authorship Verification</title>
+      <link>/publication/2020-araujo-siamese/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-araujo-siamese/</guid>
       <description></description>
     </item>
     
@@ -94,6 +94,14 @@ summary: &amp;ldquo;The aim of the project is the collection of dictionaries of 
       <link>/publication/amjad-2020-bend/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/amjad-2020-bend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spanish Word Embeddings Learned on Word Association Norms</title>
+      <link>/publication/2019-gomez-spanish/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
+      <guid>/publication/2019-gomez-spanish/</guid>
       <description></description>
     </item>
     
