@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social media | Helena Gómez Adorno</title>
+    <title>Social Media | Helena Gómez Adorno</title>
     <link>/tag/social-media/</link>
       <atom:link href="/tag/social-media/index.xml" rel="self" type="application/rss+xml" />
-    <description>Social media</description>
+    <description>Social Media</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 09:48:19 -0500</lastBuildDate>
     <image>
-      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
-      <title>Social media</title>
+      <url>/images/icon_hu_d9f5e5618ce61347.png</url>
+      <title>Social Media</title>
       <link>/tag/social-media/</link>
     </image>
     
@@ -17,7 +17,7 @@
       <link>/project/lexicalresources/</link>
       <pubDate>Thu, 10 Sep 2020 09:48:19 -0500</pubDate>
       <guid>/project/lexicalresources/</guid>
-      <description>&lt;p&gt;Lexical resource for data processing of social networks&amp;rdquo;
+      <description>&lt;p&gt;Lexical resource for data processing of social networks&amp;quot;
 summary: &amp;ldquo;The aim of the project is the collection of dictionaries of slang words, contractions, abbreviations and emoticons commonly used in social media. The diccitionaries are in English, Spanish, Dutch, and Italian languages.&lt;/p&gt;
 </description>
     </item>

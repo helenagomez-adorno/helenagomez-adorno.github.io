@@ -1,752 +1,469 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/</loc>
     <lastmod>2020-09-10T10:10:22-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/medical-records/</loc>
     <lastmod>2020-09-10T10:10:22-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/named-entity-recognition/</loc>
     <lastmod>2020-09-10T10:10:22-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/nlp/</loc>
     <lastmod>2020-09-10T10:10:22-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2020-09-10T10:10:22-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/sihsedesa/</loc>
     <lastmod>2020-09-10T10:10:22-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <lastmod>2020-09-10T10:10:22-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/author-profiling/</loc>
     <lastmod>2020-09-10T10:09:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2020-09-10T10:09:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/authorship-analysis/</loc>
     <lastmod>2020-09-10T10:09:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/authorship-attribution/</loc>
     <lastmod>2020-09-10T10:09:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/deep-learning/</loc>
     <lastmod>2020-09-10T10:09:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/helena-montserrat-gomez-adorno/</loc>
+  </url><url>
+    <loc>/author/helena-gomez-adorno/</loc>
     <lastmod>2020-09-10T10:09:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/neural-networks/</loc>
     <lastmod>2020-09-10T10:09:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/papiit-ta100520/</loc>
     <lastmod>2020-09-10T10:09:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/conacyt-298036/</loc>
     <lastmod>2020-09-10T10:07:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/lexicalresources/</loc>
     <lastmod>2020-09-10T09:48:19-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/lexical-resources/</loc>
     <lastmod>2020-09-10T09:48:19-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/slangs/</loc>
     <lastmod>2020-09-10T09:48:19-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/social-media/</loc>
     <lastmod>2020-09-10T09:48:19-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/corpus/</loc>
     <lastmod>2020-09-09T16:38:06-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/grigori-sidorov/</loc>
     <lastmod>2020-09-09T16:38:06-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ilia-markov/</loc>
     <lastmod>2020-09-09T16:38:06-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/miguel-a.-sanchez-perez/</loc>
     <lastmod>2020-09-09T16:38:06-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/spanish-corpus/</loc>
     <lastmod>2020-09-09T16:38:06-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/spanish-newscorpus/</loc>
     <lastmod>2020-09-09T16:38:06-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication-type/1/</loc>
     <lastmod>2020-09-04T01:52:12-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/emir-araujo-pino/</loc>
     <lastmod>2020-09-04T01:52:07-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/gibran-fuentes-pineda/</loc>
     <lastmod>2020-09-04T01:52:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/helena-gomez-adorno/</loc>
-    <lastmod>2020-09-04T01:52:12-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2020-09-04T01:52:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2020-09-04T01:52:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/2020-araujo-siamese/</loc>
     <lastmod>2020-09-04T01:52:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-09-04T01:52:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/alexander-gelbukh/</loc>
-    <lastmod>2020-09-04T01:52:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/alisa-zhila/</loc>
-    <lastmod>2020-09-04T01:51:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/aquilino-francisco-sotelo/</loc>
-    <lastmod>2020-09-04T01:52:06-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/damerau-tomas-rojas/</loc>
-    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ramirez-2020-descriptions/</loc>
-    <lastmod>2020-09-04T01:52:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/martinez-2020-enhancing/</loc>
-    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/gemma-bel-enguix/</loc>
-    <lastmod>2020-09-04T01:52:11-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/sotelo-2020-gender/</loc>
-    <lastmod>2020-09-04T01:52:06-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/gerardo-sierra-mart%C4%B1nez/</loc>
-    <lastmod>2020-09-04T01:51:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/hanna-oktaba/</loc>
-    <lastmod>2020-09-04T01:52:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/ilia-voronkov/</loc>
-    <lastmod>2020-09-04T01:51:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jesus-german-ortiz-barajas/</loc>
-    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/juan-manuel-torres-moreno/</loc>
-    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/julio-v-guadarrama-olvera/</loc>
-    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/maaz-amjad/</loc>
-    <lastmod>2020-09-04T01:51:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/oscar-esquivel-flores/</loc>
-    <lastmod>2020-09-04T01:52:06-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/sandra-l-ram%C4%B1rez-mora/</loc>
-    <lastmod>2020-09-04T01:52:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/soledad-aragon-martinez/</loc>
-    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/tonatiuh-hernandez-garcia/</loc>
-    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/angela-maria/</loc>
-    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/amjad-2020-bend/</loc>
     <lastmod>2020-09-04T01:51:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/gerardo-sierra/</loc>
+  </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-09-04T01:52:13-05:00</lastmod>
+  </url><url>
+    <loc>/author/alexander-gelbukh/</loc>
+    <lastmod>2020-09-04T01:52:02-05:00</lastmod>
+  </url><url>
+    <loc>/author/alisa-zhila/</loc>
+    <lastmod>2020-09-04T01:51:57-05:00</lastmod>
+  </url><url>
+    <loc>/author/angela-maria/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url><url>
+    <loc>/author/aquilino-francisco-sotelo/</loc>
+    <lastmod>2020-09-04T01:52:06-05:00</lastmod>
+  </url><url>
+    <loc>/author/damerau-tomas-rojas/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url><url>
+    <loc>/publication/ramirez-2020-descriptions/</loc>
+    <lastmod>2020-09-04T01:52:07-05:00</lastmod>
+  </url><url>
+    <loc>/publication/martinez-2020-enhancing/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url><url>
+    <loc>/author/gemma-bel-enguix/</loc>
     <lastmod>2020-09-04T01:52:11-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jorge-carlos-reyes-magana/</loc>
-    <lastmod>2020-09-04T01:51:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/2019-gomez-spanish/</loc>
-    <lastmod>2019-01-01T00:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/publication/sotelo-2020-gender/</loc>
+    <lastmod>2020-09-04T01:52:06-05:00</lastmod>
+  </url><url>
+    <loc>/author/gerardo-sierra-mart%C4%B1nez/</loc>
+    <lastmod>2020-09-04T01:51:59-05:00</lastmod>
+  </url><url>
+    <loc>/author/hanna-oktaba/</loc>
+    <lastmod>2020-09-04T01:52:07-05:00</lastmod>
+  </url><url>
+    <loc>/author/ilia-voronkov/</loc>
+    <lastmod>2020-09-04T01:51:57-05:00</lastmod>
+  </url><url>
+    <loc>/author/jesus-german-ortiz-barajas/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url><url>
+    <loc>/author/juan-manuel-torres-moreno/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url><url>
+    <loc>/author/julio-v-guadarrama-olvera/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url><url>
+    <loc>/author/maaz-amjad/</loc>
+    <lastmod>2020-09-04T01:51:57-05:00</lastmod>
+  </url><url>
+    <loc>/author/oscar-esquivel-flores/</loc>
+    <lastmod>2020-09-04T01:52:06-05:00</lastmod>
+  </url><url>
+    <loc>/author/sandra-l-ram%C4%B1rez-mora/</loc>
+    <lastmod>2020-09-04T01:52:07-05:00</lastmod>
+  </url><url>
+    <loc>/author/soledad-aragon-martinez/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url><url>
+    <loc>/author/tonatiuh-hernandez-garcia/</loc>
+    <lastmod>2020-08-31T22:45:52-05:00</lastmod>
+  </url><url>
     <loc>/publication/gomez-2019-convolutional/</loc>
     <lastmod>2020-09-04T01:52:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/reyes-2019-lexical/</loc>
     <lastmod>2020-09-04T01:52:11-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/montano-2019-parallel/</loc>
     <lastmod>2020-09-04T01:51:59-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/alex-i-valencia-valencia/</loc>
     <lastmod>2020-09-04T01:52:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/valencia-2019-bots/</loc>
     <lastmod>2020-09-04T01:52:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/espinosa-2019-bots/</loc>
     <lastmod>2020-09-04T01:52:01-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/christopher-stephens-rhodes/</loc>
     <lastmod>2020-09-04T01:52:00-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/cynthia-montano/</loc>
     <lastmod>2020-09-04T01:51:59-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/daniel-yacob-espinosa/</loc>
     <lastmod>2020-09-04T01:52:01-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/reyes-2019-designing/</loc>
     <lastmod>2020-09-04T01:51:58-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/ortiz-2019-detection/</loc>
     <lastmod>2020-09-04T01:51:56-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/posadas-2019-detection/</loc>
     <lastmod>2020-09-04T01:51:43-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/gerardo-sierra/</loc>
+    <lastmod>2020-09-04T01:52:11-05:00</lastmod>
+  </url><url>
     <loc>/author/german-ortiz/</loc>
     <lastmod>2020-09-04T01:51:56-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/helena-gomez/</loc>
     <lastmod>2020-09-04T01:51:59-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/helena-gomez-adorno/</loc>
+    <lastmod>2020-09-04T01:52:00-05:00</lastmod>
+  </url><url>
     <loc>/author/jesus-jaime-moreno-escobar/</loc>
     <lastmod>2020-09-04T01:51:43-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/jorge-carlos-reyes-magana/</loc>
+    <lastmod>2020-09-04T01:51:53-05:00</lastmod>
+  </url><url>
     <loc>/author/jorge-reyes-magana/</loc>
     <lastmod>2020-09-04T01:52:11-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/juan-pablo-posadas-duran/</loc>
     <lastmod>2020-09-04T01:51:50-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/luis-enrique-argota-vega/</loc>
     <lastmod>2020-09-04T01:51:53-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/vega-2019-mineriaunam/</loc>
     <lastmod>2020-09-04T01:51:53-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/roddy-fuentes-alba/</loc>
     <lastmod>2020-09-04T01:52:02-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/publication/2019-gomez-spanish/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/bel-2019-wan-2-vec/</loc>
     <lastmod>2020-09-04T01:51:49-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2018-machine/</loc>
     <lastmod>2020-09-04T01:51:40-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/carolina-mart%C4%B1n-del-campo-rodr%5Cguez/</loc>
     <lastmod>2020-09-04T01:52:03-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/markov-2018-cic/</loc>
     <lastmod>2020-09-04T01:51:55-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/martin-2018-cic/</loc>
     <lastmod>2020-09-04T01:52:03-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/daniela-quezada/</loc>
     <lastmod>2020-09-04T01:51:40-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/darnes-vilarino/</loc>
-    <lastmod>2020-09-04T01:52:05-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-09-04T01:51:51-05:00</lastmod>
+  </url><url>
     <loc>/author/david-pinto/</loc>
     <lastmod>2020-09-04T01:52:12-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2018-document/</loc>
     <lastmod>2020-09-04T01:51:26-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/francisco-viveros-jimenez/</loc>
     <lastmod>2020-09-04T01:51:50-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/german-r%C4%B1os-toledo/</loc>
     <lastmod>2020-09-04T01:51:35-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2018-hierarchical/</loc>
     <lastmod>2020-09-04T01:51:36-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ildar-batyrshin/</loc>
     <lastmod>2020-09-04T01:52:03-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/viveros-2018-improving/</loc>
     <lastmod>2020-09-04T01:51:50-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/juan-pablo-posadas-duran/</loc>
+    <lastmod>2020-09-04T01:51:35-05:00</lastmod>
+  </url><url>
     <loc>/author/miguel-a-sanchez-perez/</loc>
     <lastmod>2020-09-04T01:51:41-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/miguel-a-sanchez-pereza/</loc>
     <lastmod>2020-09-04T01:51:50-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/monica-jasso-rosales/</loc>
     <lastmod>2020-09-04T01:51:55-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/octavio-sanchez/</loc>
     <lastmod>2020-09-04T01:51:40-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sanchez-2018-plagiarism/</loc>
     <lastmod>2020-09-04T01:51:41-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2018-stylometry/</loc>
     <lastmod>2020-09-04T01:51:35-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/yuridiana-aleman/</loc>
     <lastmod>2020-09-04T01:51:48-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/posadas-2017-algorithm/</loc>
     <lastmod>2020-09-04T01:51:44-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/posadas-2017-application/</loc>
     <lastmod>2020-09-04T01:51:21-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2017-author/</loc>
     <lastmod>2020-09-04T01:51:34-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sanchez-2017-comparison/</loc>
     <lastmod>2020-09-04T01:51:24-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/darnes-vilarino-ayala/</loc>
     <lastmod>2020-09-04T01:52:12-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2017-discriminating/</loc>
     <lastmod>2020-09-04T01:51:31-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/elibeth-mirasol-melendez/</loc>
     <lastmod>2020-09-04T01:51:44-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/gabriela-posadas-duran/</loc>
     <lastmod>2020-09-04T01:51:44-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/jorge-baptista/</loc>
     <lastmod>2020-09-04T01:51:31-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/markov-2017-language/</loc>
     <lastmod>2020-09-04T01:51:30-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/liliana-chanona-hernandez/</loc>
     <lastmod>2020-09-04T01:51:44-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/markov-2017-winning/</loc>
     <lastmod>2020-09-04T01:51:32-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/yuridiana-aleman/</loc>
+    <lastmod>2020-09-04T01:51:34-05:00</lastmod>
+  </url><url>
     <loc>/publication/markov-2016-adapting/</loc>
     <lastmod>2020-09-04T01:51:19-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/alexander-f-gelbukh/</loc>
     <lastmod>2020-09-04T01:51:47-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/markov-2016-author/</loc>
     <lastmod>2020-09-04T01:51:18-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2016-automatic/</loc>
     <lastmod>2020-09-04T01:51:22-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/carolina-focil-arias/</loc>
     <lastmod>2020-09-04T01:51:37-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2016-cicbuapnlp/</loc>
     <lastmod>2020-09-04T01:51:46-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2016-compilacion/</loc>
     <lastmod>2020-09-04T01:51:37-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/darnes-vilarino/</loc>
+    <lastmod>2020-09-04T01:52:05-05:00</lastmod>
+  </url><url>
     <loc>/publication/gomez-2016-improving/</loc>
     <lastmod>2020-09-04T01:51:17-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/liliana-chanona-hernandez/</loc>
+    <lastmod>2020-09-04T01:51:17-05:00</lastmod>
+  </url><url>
     <loc>/publication/gomez-2015-graph/</loc>
     <lastmod>2020-09-04T01:51:28-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2015-cicbuapnlp/</loc>
     <lastmod>2020-09-04T01:51:51-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sidorov-2015-computing/</loc>
     <lastmod>2020-09-04T01:51:20-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/nahun-loya/</loc>
     <lastmod>2020-09-04T01:51:48-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/obdulia-pichardo-lagunas/</loc>
     <lastmod>2020-09-04T01:51:16-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/posadas-2015-syntactic/</loc>
     <lastmod>2020-09-04T01:51:16-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/pinto-2014-graph/</loc>
     <lastmod>2020-09-04T01:51:29-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2014-automatic/</loc>
     <lastmod>2020-09-04T01:52:05-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2014-content/</loc>
     <lastmod>2020-09-04T01:51:38-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2014-graph/</loc>
     <lastmod>2020-09-04T01:51:47-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/manuel-montes/</loc>
     <lastmod>2020-09-04T01:51:38-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/rodrigo-alfaro/</loc>
     <lastmod>2020-09-04T01:51:38-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/sidorov-2014-soft/</loc>
     <lastmod>2020-09-04T01:51:15-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/vivek-kumar-singh/</loc>
     <lastmod>2020-09-04T01:51:29-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2013-question/</loc>
     <lastmod>2020-09-04T01:51:39-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/vilarino-2013-buap/</loc>
     <lastmod>2020-09-04T01:51:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/esteban-castillo/</loc>
     <lastmod>2020-09-04T01:51:25-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/helena-gomez/</loc>
+    <lastmod>2020-09-04T01:51:27-05:00</lastmod>
+  </url><url>
     <loc>/publication/vilarino-2013-lexical/</loc>
     <lastmod>2020-09-04T01:51:25-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/saul-leon/</loc>
     <lastmod>2020-09-04T01:51:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2013-semantic/</loc>
     <lastmod>2020-09-04T01:51:52-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/gomez-2013-two/</loc>
     <lastmod>2020-09-04T01:52:12-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/others/</loc>
     <lastmod>2020-09-04T01:52:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/luna-2012-algorithm/</loc>
     <lastmod>2020-09-04T01:52:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/loya-2012-forecast/</loc>
     <lastmod>2020-09-04T01:51:48-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/guillermo-de-ita-luna/</loc>
     <lastmod>2020-09-04T01:52:13-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/hector-jimenez-salazar/</loc>
     <lastmod>2020-09-04T01:51:27-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/ivan-olmos-pineda/</loc>
     <lastmod>2020-09-04T01:51:48-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/pinto-2012-soundex/</loc>
     <lastmod>2020-09-04T01:51:27-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/author/helena-montserrat-gomez-adorno/</loc>
+  </url><url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
   </url>
-  
 </urlset>

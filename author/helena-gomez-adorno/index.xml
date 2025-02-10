@@ -5,18 +5,63 @@
     <link>/author/helena-gomez-adorno/</link>
       <atom:link href="/author/helena-gomez-adorno/index.xml" rel="self" type="application/rss+xml" />
     <description>Helena Gómez-Adorno</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 10:09:42 -0500</lastBuildDate>
     <image>
-      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu_d9f5e5618ce61347.png</url>
       <title>Helena Gómez-Adorno</title>
       <link>/author/helena-gomez-adorno/</link>
     </image>
+    
+    <item>
+      <title>PAPIIT TA100520: Authorship analysis on documents with deep learning techniques.</title>
+      <link>/project/papiit-ta100520/</link>
+      <pubDate>Thu, 10 Sep 2020 10:09:42 -0500</pubDate>
+      <guid>/project/papiit-ta100520/</guid>
+      <description>&lt;p&gt;The aim of the project is to develop methods that allow the extraction of relevant feature from documents for authorship analysis, using deep neural architectures that allow to obtain lexical, syntactic, and semantic properties of texts.∫&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CONACYT Project 298036: Feria de Talleres Mexicanas del Futuro: Trazando conciencias, pensando en TI Edición IIMAS UNAM.</title>
+      <link>/project/conacyt-298036/</link>
+      <pubDate>Thu, 10 Sep 2020 10:07:05 -0500</pubDate>
+      <guid>/project/conacyt-298036/</guid>
+      <description>&lt;p&gt;The project aims at promoting the scientific-technological vocation among female students of UNAM&amp;rsquo;s highschool. For this, we invite the girls to study a science and technology career through conferences and workshops in a fun and interesting environment to show them that thinking that women and technology do not get along is an unfounded prejudice. We held a workshop fair at UNAM campus. Worshops and talks were given by professional women from the world of academy and industry, focused on the student population of the UNAM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lexical resource for data processing of social networks</title>
+      <link>/project/lexicalresources/</link>
+      <pubDate>Thu, 10 Sep 2020 09:48:19 -0500</pubDate>
+      <guid>/project/lexicalresources/</guid>
+      <description>&lt;p&gt;Lexical resource for data processing of social networks&amp;quot;
+summary: &amp;ldquo;The aim of the project is the collection of dictionaries of slang words, contractions, abbreviations and emoticons commonly used in social media. The diccitionaries are in English, Spanish, Dutch, and Italian languages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spanish NewsCorpus: Multi-tagged corpus for authorship analysis in Spanish</title>
+      <link>/project/spanish-newscorpus/</link>
+      <pubDate>Wed, 09 Sep 2020 16:38:06 -0500</pubDate>
+      <guid>/project/spanish-newscorpus/</guid>
+      <description>&lt;p&gt;The aim of the project is the compilation of news in Spanish from digital media sites and its categorization into three areas: variation of Spanish, author, and author&amp;rsquo;s gender. The collection was carried out semi-automatically with a web crawler developed for this purpose.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Siamese Network applied to Authorship Verification</title>
       <link>/publication/2020-araujo-siamese/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020-araujo-siamese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Bend the truth”: Benchmark dataset for fake news detection in urdu language and its evaluation</title>
+      <link>/publication/amjad-2020-bend/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/amjad-2020-bend/</guid>
       <description></description>
     </item>
     
@@ -45,22 +90,6 @@
     </item>
     
     <item>
-      <title>“Bend the truth”: Benchmark dataset for fake news detection in urdu language and its evaluation</title>
-      <link>/publication/amjad-2020-bend/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/amjad-2020-bend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spanish Word Embeddings Learned on Word Association Norms</title>
-      <link>/publication/2019-gomez-spanish/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
-      <guid>/publication/2019-gomez-spanish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A convolutional neural network approach for gender and language variety identification</title>
       <link>/publication/gomez-2019-convolutional/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -73,14 +102,6 @@
       <link>/publication/reyes-2019-lexical/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/reyes-2019-lexical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bots and Gender Identification Based on Stylometry of Tweet Minimal Structure and n-grams Model</title>
-      <link>/publication/valencia-2019-bots/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/valencia-2019-bots/</guid>
       <description></description>
     </item>
     
@@ -121,6 +142,14 @@
       <link>/publication/vega-2019-mineriaunam/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/vega-2019-mineriaunam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spanish Word Embeddings Learned on Word Association Norms</title>
+      <link>/publication/2019-gomez-spanish/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-gomez-spanish/</guid>
       <description></description>
     </item>
     

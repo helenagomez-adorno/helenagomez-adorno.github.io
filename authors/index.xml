@@ -7,10 +7,21 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 10:09:42 -0500</lastBuildDate>
     <image>
-      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu_d9f5e5618ce61347.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Helena Montserrat Gómez Adorno</title>
+      <link>/author/helena-montserrat-gomez-adorno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/helena-montserrat-gomez-adorno/</guid>
+      <description>&lt;p&gt;I am researcher at 
+&lt;a href=&#34;https://www.iimas.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas&lt;/a&gt;, 
+&lt;a href=&#34;http://unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universidad Nacional Autónoma de México&lt;/a&gt;. I finished my Ph. D. in Computer Science at the Centro de Investigación en Computación, IPN. My research interests are in the field of natural language processing and text mining. I have worked on semantic similarity, authorship attribution, author profiling, and several text classification problems. During my Ph.D. I introduced text representation structures based on graphs to facilitate NLP tasks and a new method to calculate the semantic similarity between texts, called soft cosine similarity, which considers the semantic information of characteristics such as words, n-grams, POS tags, etc.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

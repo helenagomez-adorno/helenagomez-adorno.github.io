@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Liliana Chanona-Hernandez | Helena Gómez Adorno</title>
+    <title>Liliana Chanona-Hernández | Helena Gómez Adorno</title>
     <link>/author/liliana-chanona-hernandez/</link>
       <atom:link href="/author/liliana-chanona-hernandez/index.xml" rel="self" type="application/rss+xml" />
-    <description>Liliana Chanona-Hernandez</description>
+    <description>Liliana Chanona-Hernández</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
-      <title>Liliana Chanona-Hernandez</title>
+      <url>/images/icon_hu_d9f5e5618ce61347.png</url>
+      <title>Liliana Chanona-Hernández</title>
       <link>/author/liliana-chanona-hernandez/</link>
     </image>
     
@@ -25,14 +25,6 @@
       <link>/publication/posadas-2017-application/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/posadas-2017-application/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving feature representation based on a neural network for author profiling in social media texts</title>
-      <link>/publication/gomez-2016-improving/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/gomez-2016-improving/</guid>
       <description></description>
     </item>
     

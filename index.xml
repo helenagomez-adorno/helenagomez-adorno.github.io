@@ -7,7 +7,7 @@
     <description>Helena Gómez Adorno</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 10:10:22 -0500</lastBuildDate>
     <image>
-      <url>/images/icon_hu44f23efb8a7898a6ff1f4279c082dc16_379237_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu_d9f5e5618ce61347.png</url>
       <title>Helena Gómez Adorno</title>
       <link>/</link>
     </image>
@@ -26,7 +26,8 @@
       <link>/project/papiit-ta100520/</link>
       <pubDate>Thu, 10 Sep 2020 10:09:42 -0500</pubDate>
       <guid>/project/papiit-ta100520/</guid>
-      <description></description>
+      <description>&lt;p&gt;The aim of the project is to develop methods that allow the extraction of relevant feature from documents for authorship analysis, using deep neural architectures that allow to obtain lexical, syntactic, and semantic properties of texts.∫&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -43,7 +44,7 @@
       <link>/project/lexicalresources/</link>
       <pubDate>Thu, 10 Sep 2020 09:48:19 -0500</pubDate>
       <guid>/project/lexicalresources/</guid>
-      <description>&lt;p&gt;Lexical resource for data processing of social networks&amp;rdquo;
+      <description>&lt;p&gt;Lexical resource for data processing of social networks&amp;quot;
 summary: &amp;ldquo;The aim of the project is the collection of dictionaries of slang words, contractions, abbreviations and emoticons commonly used in social media. The diccitionaries are in English, Spanish, Dutch, and Italian languages.&lt;/p&gt;
 </description>
     </item>
@@ -62,6 +63,14 @@ summary: &amp;ldquo;The aim of the project is the collection of dictionaries of 
       <link>/publication/2020-araujo-siamese/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/2020-araujo-siamese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Bend the truth”: Benchmark dataset for fake news detection in urdu language and its evaluation</title>
+      <link>/publication/amjad-2020-bend/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/amjad-2020-bend/</guid>
       <description></description>
     </item>
     
@@ -86,22 +95,6 @@ summary: &amp;ldquo;The aim of the project is the collection of dictionaries of 
       <link>/publication/sotelo-2020-gender/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/sotelo-2020-gender/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Bend the truth”: Benchmark dataset for fake news detection in urdu language and its evaluation</title>
-      <link>/publication/amjad-2020-bend/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/amjad-2020-bend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spanish Word Embeddings Learned on Word Association Norms</title>
-      <link>/publication/2019-gomez-spanish/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
-      <guid>/publication/2019-gomez-spanish/</guid>
       <description></description>
     </item>
     
@@ -174,6 +167,14 @@ summary: &amp;ldquo;The aim of the project is the collection of dictionaries of 
       <link>/publication/vega-2019-mineriaunam/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/vega-2019-mineriaunam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spanish Word Embeddings Learned on Word Association Norms</title>
+      <link>/publication/2019-gomez-spanish/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-gomez-spanish/</guid>
       <description></description>
     </item>
     
@@ -487,6 +488,17 @@ summary: &amp;ldquo;The aim of the project is the collection of dictionaries of 
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/pinto-2012-soundex/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Helena Montserrat Gómez Adorno</title>
+      <link>/author/helena-montserrat-gomez-adorno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/helena-montserrat-gomez-adorno/</guid>
+      <description>&lt;p&gt;I am researcher at 
+&lt;a href=&#34;https://www.iimas.unam.mx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas&lt;/a&gt;, 
+&lt;a href=&#34;http://unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universidad Nacional Autónoma de México&lt;/a&gt;. I finished my Ph. D. in Computer Science at the Centro de Investigación en Computación, IPN. My research interests are in the field of natural language processing and text mining. I have worked on semantic similarity, authorship attribution, author profiling, and several text classification problems. During my Ph.D. I introduced text representation structures based on graphs to facilitate NLP tasks and a new method to calculate the semantic similarity between texts, called soft cosine similarity, which considers the semantic information of characteristics such as words, n-grams, POS tags, etc.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
